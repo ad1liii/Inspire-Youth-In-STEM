@@ -1,0 +1,1 @@
+#Program that calculates the arithmetic progression of numbers from 1-20
