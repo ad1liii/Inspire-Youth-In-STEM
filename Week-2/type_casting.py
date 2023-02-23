@@ -18,5 +18,4 @@ print(type(x))
 y= "Hello"
 
 print(type(y))
-
 print(len(y))

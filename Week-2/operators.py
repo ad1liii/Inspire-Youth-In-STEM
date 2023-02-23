@@ -45,6 +45,6 @@ print(num2)
 
 # OR ||
 
-# XOR
+#XOR
 
 # NOT

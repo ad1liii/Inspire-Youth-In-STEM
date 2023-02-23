@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 age= 16
 
 gender= "Male"
@@ -21,3 +23,4 @@ if(fav_colour== "gray") | (age<=20):
     print("Happy birthday")
 else:
     print("No birthday present for you yet")
+
